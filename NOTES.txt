@@ -1,0 +1,19 @@
+Project: Library Search Lite
+Authors: Ayush Katiyar, Ashutosh Giri
+Dept-Year: Computer Science and Engineering 2028
+Event: WEB Development Challenge 2025
+
+Tools & References:
+- Used ChatGPT (GPT-5) only for initial layout guidance and project structure ideas.
+- All HTML, CSS, and JavaScript code was written, tested, and customized by us.
+- No external frameworks or templates were used.
+
+Features Implemented:
+- Book search with live filter
+- Bookmark system using localStorage
+- Dark mode toggle (saved in localStorage)
+- Stats line showing total books & bookmarks
+- Fully responsive and accessible design
+
+Acknowledgement:
+This project was built completely by us, with minimal AI assistance for brainstorming structure and feature planning.

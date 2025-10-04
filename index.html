@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Library Search Lite</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Library Search Lite</h1>
+    <button id="themeToggle" aria-label="Toggle dark mode">🌙</button>
+  </header>
+
+  <main>
+    <section class="search-bar">
+      <label for="searchInput">Search Books:</label>
+      <input type="text" id="searchInput" placeholder="Type a title or author..." />
+    </section>
+
+    <section id="stats">Loading books...</section>
+    <section id="bookList" aria-live="polite"></section>
+  </main>
+
+  <footer>© 2025 Library Search Lite</footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

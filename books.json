@@ -1,0 +1,22 @@
+[
+  { "id": 1, "title": "Clean Code", "author": "Robert C. Martin", "genre": "Software Engineering" },
+  { "id": 2, "title": "The Pragmatic Programmer", "author": "Andrew Hunt", "genre": "Programming" },
+  { "id": 3, "title": "Introduction to Algorithms", "author": "Cormen et al.", "genre": "Algorithms" },
+  { "id": 4, "title": "You Don’t Know JS", "author": "Kyle Simpson", "genre": "JavaScript" },
+  { "id": 5, "title": "Eloquent JavaScript", "author": "Marijn Haverbeke", "genre": "JavaScript" },
+  { "id": 6, "title": "Design Patterns", "author": "Erich Gamma et al.", "genre": "Software Design" },
+  { "id": 7, "title": "Cracking the Coding Interview", "author": "Gayle Laakmann McDowell", "genre": "Interview Prep" },
+  { "id": 8, "title": "Deep Learning", "author": "Ian Goodfellow", "genre": "AI / ML" },
+  { "id": 9, "title": "The Mythical Man-Month", "author": "Fred Brooks", "genre": "Software Management" },
+  { "id": 10, "title": "Refactoring", "author": "Martin Fowler", "genre": "Clean Code" },
+  { "id": 11, "title": "JavaScript: The Good Parts", "author": "Douglas Crockford", "genre": "JavaScript" },
+  { "id": 12, "title": "Head First Design Patterns", "author": "Eric Freeman", "genre": "Software Design" },
+  { "id": 13, "title": "The Clean Coder", "author": "Robert C. Martin", "genre": "Professionalism" },
+  { "id": 14, "title": "Code Complete", "author": "Steve McConnell", "genre": "Software Construction" },
+  { "id": 15, "title": "Structure and Interpretation of Computer Programs", "author": "Harold Abelson", "genre": "Computer Science" },
+  { "id": 16, "title": "The Art of Computer Programming", "author": "Donald Knuth", "genre": "Algorithms" },
+  { "id": 17, "title": "Programming Pearls", "author": "Jon Bentley", "genre": "Programming" },
+  { "id": 18, "title": "Effective Java", "author": "Joshua Bloch", "genre": "Java" },
+  { "id": 19, "title": "The C Programming Language", "author": "Brian Kernighan and Dennis Ritchie", "genre": "C Programming" },
+  { "id": 20, "title": "Algorithms", "author": "Robert Sedgewick and Kevin Wayne", "genre": "Algorithms" }
+]
